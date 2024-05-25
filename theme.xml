@@ -32,7 +32,7 @@ version         1.0
          <pos>0.35 0.96</pos>
          <backgroundColor>00000000</backgroundColor>
          <color>ffffff</color>
-         <fontPath>./_inc/fonts/GROBOLD.ttf</fontPath>
+         <fontPath>./_inc/fonts/Acre.otf</fontPath>
 	     <fontSize>0.015</fontSize>
          <zIndex>44</zIndex>	     
       </text>            
@@ -41,7 +41,7 @@ version         1.0
 
    <view name="detailed,video">
       <helpsystem name="help">
-         <fontPath>./_inc/fonts/GROBOLD.ttf</fontPath>
+         <fontPath>./_inc/fonts/Acre.otf</fontPath>
          <fontSize>0.015</fontSize>      
          <pos>0.015 0.98</pos>      
          <textColor>ff0000</textColor>
@@ -50,7 +50,7 @@ version         1.0
    </view> 
    <view name="basic">
       <helpsystem name="help">
-         <fontPath>./_inc/fonts/GROBOLD.ttf</fontPath>
+         <fontPath>./_inc/fonts/Acre.otf</fontPath>
          <fontSize>0.015</fontSize>      
          <pos>0.015 0.98</pos>      
          <textColor>ff0000</textColor>
@@ -60,7 +60,7 @@ version         1.0
    
    <view name="system">
       <helpsystem name="help">
-         <fontPath>./_inc/fonts/GROBOLD.ttf</fontPath>
+         <fontPath>./_inc/fonts/Acre.otf</fontPath>
          <fontSize>0.015</fontSize>     
          <pos>0.015 0.98</pos>      
          <textColor>ff0000</textColor>
@@ -72,12 +72,12 @@ version         1.0
       <textlist name="gamelist">      
          <selectorColor>1c1c1c00</selectorColor>                     
          <pos>0.235 0.024</pos>
-         <size>0.3 0.9</size>
+         <size>0.3 0.950</size>
          <selectedColor>ff0000</selectedColor>
          <primaryColor>ffffff</primaryColor>
          <secondaryColor>ffffff</secondaryColor>
-         <fontPath>./_inc/fonts/GROBOLD.ttf</fontPath>
-         <fontSize>0.033</fontSize>
+         <fontPath>./_inc/fonts/Acre.otf</fontPath>
+         <fontSize>0.028</fontSize>
          <forceUppercase>1</forceUppercase>
          <scrollSound></scrollSound>
          <alignment>left</alignment>
@@ -93,7 +93,7 @@ version         1.0
          <selectedColor>ff0000</selectedColor>
          <primaryColor>ffffff</primaryColor>
          <secondaryColor>ffffff</secondaryColor>
-         <fontPath>./_inc/fonts/GROBOLD.ttf</fontPath>
+         <fontPath>./_inc/fonts/Acre.otf</fontPath>
          <fontSize>0.033</fontSize>
          <forceUppercase>1</forceUppercase>
          <scrollSound></scrollSound>
@@ -124,7 +124,7 @@ version         1.0
       </text>
       <text name="md_lbl_rating,md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_lastplayed, md_lbl_playcount,md_lbl_players,md_developer, md_publisher, md_genre, md_playcount, md_lastplayed,md_description,md_players,md_releasedate">
          <color>ffffff</color>
-         <fontPath>./_inc/fonts/GROBOLD.ttf</fontPath>
+         <fontPath>./_inc/fonts/Acre.otf</fontPath>
          <fontSize>0.025</fontSize>
       </text>
       <text name="md_lbl_rating">
@@ -195,15 +195,15 @@ version         1.0
    <view name="detailed">
       <image name="md_image">
          <pos>0.78 0.31</pos>
-         <maxSize>0.48 0.38</maxSize>
+         <maxSize>0.48 0.46</maxSize>
          <zIndex>41</zIndex>         
       </image>      
    </view>
 
    <view name="video">   
       <video name="md_video">
-         <pos>0.78 0.34</pos>
-         <maxSize>0.48 0.38</maxSize>
+         <pos>0.78 0.30</pos>
+         <maxSize>0.48 0.46</maxSize>
          <delay>1.0</delay>
          <zIndex>41</zIndex>         
          <showSnapshotNoVideo>true</showSnapshotNoVideo>
