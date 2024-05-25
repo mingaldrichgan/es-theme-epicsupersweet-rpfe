@@ -3,9 +3,19 @@
   <formatVersion>4</formatVersion>
   <include>./../theme.xml</include>
   <view name="system">
-    <image name="logo">
-      <path>./_inc/system.png</path>
-    </image>
+    <text name="sys_line2" extra="true">
+      <text>Library</text>
+      <fontSize>0.18</fontSize>
+      <origin>0 0</origin>
+      <pos>0.05 0.130</pos>
+      <size>0 0</size>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>2004  &#xB7;  MAGAZINES</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>Retro Gamer is a British magazine, published worldwide, covering retro video games. It was the first commercial magazine to be devoted entirely to the subject.</text>
+    </text>
   </view>
   <view name="detailed, video">
     <image name="systemboxart" extra="true">

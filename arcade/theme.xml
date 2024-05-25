@@ -3,9 +3,26 @@
   <formatVersion>4</formatVersion>
   <include>./../theme.xml</include>
   <view name="system">
-    <image name="logo">
-      <path>./_inc/system.png</path>
-    </image>
+    <text name="sys_line1" extra="true">
+      <text>FB-NEO, M.A.M.E</text>
+      <fontSize>0.048</fontSize>
+      <origin>0 0</origin>
+      <pos>0.05 0.142</pos>
+      <size>0 0</size>
+    </text>
+    <text name="sys_line2" extra="true">
+      <text>Arcade</text>
+      <fontSize>0.18</fontSize>
+      <origin>0 0</origin>
+      <pos>0.05 0.16</pos>
+      <size>0 0</size>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1971  &#xB7;  COIN OPERATED CABINET</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>Coin-operated entertainment machines. The golden age is defined as a period between the late 1970s and ending in the mid-1980s.</text>
+    </text>
   </view>
   <view name="detailed, video">
     <image name="systemboxart" extra="true">

@@ -3,9 +3,26 @@
   <formatVersion>4</formatVersion>
   <include>./../theme.xml</include>
   <view name="system">
-    <image name="logo">
-      <path>./_inc/system.png</path>
-    </image>
+    <text name="sys_line1" extra="true">
+      <text>SNK Corporation</text>
+      <fontSize>0.048</fontSize>
+      <origin>0 0</origin>
+      <pos>0.05 0.142</pos>
+      <size>0 0</size>
+    </text>
+    <text name="sys_line2" extra="true">
+      <text>NGP</text>
+      <fontSize>0.18</fontSize>
+      <origin>0 0</origin>
+      <pos>0.05 0.16</pos>
+      <size>0 0</size>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1998  &#xB7;  16-BIT HANDHELD CONSOLE</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>Monochrome handheld game console released by SNK. Is part of the Neo Geo family. CPU Toshiba TLCS900H. Release date JP: 28 Oct '98.</text>
+    </text>
   </view>
   <view name="detailed, video">
     <image name="systemboxart" extra="true">

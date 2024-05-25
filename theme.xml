@@ -13,22 +13,74 @@
         <color>00000000</color>
         <maxLogoCount>5</maxLogoCount>
       </carousel>
+      <image name="logo">
+        <path>./${system.theme}/_inc/system.png</path>
+      </image>
       <image name="background" extra="true">
         <origin>0 0</origin>
         <pos>0 0</pos>
-        <size>1 1</size>
-        <zIndex>40</zIndex>
+        <size>0.4 1</size>
+        <zIndex>42</zIndex>
         <path>./_inc/images/main.png</path>
+        <color>00000066</color>
       </image>
-      <text name="systemInfo">
-        <zIndex>44</zIndex>
-        <pos>0.35 0.96</pos>
-        <backgroundColor>00000000</backgroundColor>
+      <text name="sys_line1" extra="true">
+        <fontPath>./_inc/fonts/BebasNeue.otf</fontPath>
+        <alignment>left</alignment>
+        <forceUppercase>1</forceUppercase>
         <color>ffffff</color>
-        <fontPath>./_inc/fonts/Acre.otf</fontPath>
-        <fontSize>0.015</fontSize>
         <zIndex>44</zIndex>
       </text>
+      <text name="sys_line2" extra="true">
+        <fontPath>./_inc/fonts/BebasNeue.otf</fontPath>
+        <alignment>left</alignment>
+        <forceUppercase>1</forceUppercase>
+        <color>ffffff</color>
+        <zIndex>44</zIndex>
+      </text>
+      <text name="shortdescription" extra="true">
+        <fontPath>./_inc/fonts/Acre.otf</fontPath>
+        <alignment>left</alignment>
+        <forceUppercase>0</forceUppercase>
+        <fontSize>0.021</fontSize>
+        <color>ffffff</color>
+        <origin>0 0</origin>
+        <pos>0.05 0.1055</pos>
+        <size>0.320 0.033</size>
+        <zIndex>44</zIndex>
+      </text>
+      <text name="systemInfo">
+        <fontPath>./_inc/fonts/Acre.otf</fontPath>
+        <alignment>left</alignment>
+        <backgroundColor>00000000</backgroundColor>
+        <forceUppercase>1</forceUppercase>
+        <color>ff332d</color>
+        <origin>0 0</origin>
+        <pos>0.05 0.3611</pos>
+        <size>0.200 0.039</size>
+        <fontSize>0.0315</fontSize>
+        <zIndex>44</zIndex>
+      </text>
+      <text name="longdescription" extra="true">
+        <fontPath>./_inc/fonts/Acre.otf</fontPath>
+        <alignment>left</alignment>
+        <forceUppercase>0</forceUppercase>
+        <fontSize>0.021</fontSize>
+        <color>ffffff</color>
+        <lineSpacing>1.18</lineSpacing>
+        <origin>0 0</origin>
+        <pos>0.05 0.360</pos>
+        <size>0.28 0.25</size>
+        <zIndex>44</zIndex>
+      </text>
+      <image name="buttonA" extra="true">
+        <path>./_inc/images/button.svg</path>
+        <tile>false</tile>
+        <origin>0 0</origin>
+        <pos>0.05 0.6</pos>
+        <size>0 0.044</size>
+        <zIndex>44</zIndex>
+      </image>
     </view>
   </feature>
   <view name="detailed,video">
@@ -36,8 +88,8 @@
       <fontPath>./_inc/fonts/Acre.otf</fontPath>
       <fontSize>0.015</fontSize>
       <pos>0.015 0.98</pos>
-      <textColor>ff0000</textColor>
-      <iconColor>ff0000</iconColor>
+      <textColor>ff332d</textColor>
+      <iconColor>ff332d</iconColor>
     </helpsystem>
   </view>
   <view name="basic">
@@ -45,8 +97,8 @@
       <fontPath>./_inc/fonts/Acre.otf</fontPath>
       <fontSize>0.015</fontSize>
       <pos>0.015 0.98</pos>
-      <textColor>ff0000</textColor>
-      <iconColor>ff0000</iconColor>
+      <textColor>ff332d</textColor>
+      <iconColor>ff332d</iconColor>
     </helpsystem>
   </view>
   <view name="system">
@@ -54,8 +106,8 @@
       <fontPath>./_inc/fonts/Acre.otf</fontPath>
       <fontSize>0.015</fontSize>
       <pos>0.015 0.98</pos>
-      <textColor>ff0000</textColor>
-      <iconColor>ff0000</iconColor>
+      <textColor>ff332d</textColor>
+      <iconColor>ff332d</iconColor>
     </helpsystem>
   </view>
   <view name="detailed,video">
@@ -63,7 +115,7 @@
       <selectorColor>1c1c1c00</selectorColor>
       <pos>0.235 0.024</pos>
       <size>0.3 0.950</size>
-      <selectedColor>ff0000</selectedColor>
+      <selectedColor>ff332d</selectedColor>
       <primaryColor>ffffff</primaryColor>
       <secondaryColor>ffffff</secondaryColor>
       <fontPath>./_inc/fonts/Acre.otf</fontPath>
@@ -79,7 +131,7 @@
       <selectorColor>1c1c1c00</selectorColor>
       <pos>0.23 0.0305</pos>
       <size>0.535 0.9</size>
-      <selectedColor>ff0000</selectedColor>
+      <selectedColor>ff332d</selectedColor>
       <primaryColor>ffffff</primaryColor>
       <secondaryColor>ffffff</secondaryColor>
       <fontPath>./_inc/fonts/Acre.otf</fontPath>

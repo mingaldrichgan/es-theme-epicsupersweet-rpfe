@@ -3,9 +3,26 @@
   <formatVersion>4</formatVersion>
   <include>./../theme.xml</include>
   <view name="system">
-    <image name="logo">
-      <path>./_inc/system.png</path>
-    </image>
+    <text name="sys_line1" extra="true">
+      <text>CAPCOM</text>
+      <fontSize>0.048</fontSize>
+      <origin>0 0</origin>
+      <pos>0.05 0.142</pos>
+      <size>0 0</size>
+    </text>
+    <text name="sys_line2" extra="true">
+      <text>SYSTEM I</text>
+      <fontSize>0.18</fontSize>
+      <origin>0 0</origin>
+      <pos>0.05 0.16</pos>
+      <size>0 0</size>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1988  &#xB7;  Arcade Board</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>The CPS is an arcade system board developed by Capcom that ran game software stored on removable ROM cartridges.</text>
+    </text>
   </view>
   <view name="detailed, video">
     <image name="systemboxart" extra="true">
