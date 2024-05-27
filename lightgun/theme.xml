@@ -5,10 +5,7 @@
   <view name="system">
     <text name="sys_line2" extra="true">
       <text>Lightgun</text>
-      <fontSize>0.18</fontSize>
-      <origin>0 0</origin>
       <pos>0.05 0.130</pos>
-      <size>0 0</size>
     </text>
     <text name="shortdescription" extra="true">
       <text>1991  &#xB7;  VIDEO GAME ADD-ON</text>

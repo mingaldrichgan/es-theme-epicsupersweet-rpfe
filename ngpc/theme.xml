@@ -4,18 +4,10 @@
   <include>./../theme.xml</include>
   <view name="system">
     <text name="sys_line1" extra="true">
-      <text>SNK Corporation</text>
-      <fontSize>0.048</fontSize>
-      <origin>0 0</origin>
-      <pos>0.05 0.142</pos>
-      <size>0 0</size>
+      <text>SNK</text>
     </text>
     <text name="sys_line2" extra="true">
-      <text>NGPC</text>
-      <fontSize>0.18</fontSize>
-      <origin>0 0</origin>
-      <pos>0.05 0.16</pos>
-      <size>0 0</size>
+      <text>NG Pocket Color</text>
     </text>
     <text name="shortdescription" extra="true">
       <text>1999  &#xB7;  16-BIT HANDHELD CONSOLE</text>

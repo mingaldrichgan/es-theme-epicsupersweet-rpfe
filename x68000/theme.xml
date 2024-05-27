@@ -4,18 +4,10 @@
   <include>./../theme.xml</include>
   <view name="system">
     <text name="sys_line1" extra="true">
-      <text>Sharp Corporation</text>
-      <fontSize>0.048</fontSize>
-      <origin>0 0</origin>
-      <pos>0.05 0.142</pos>
-      <size>0 0</size>
+      <text>Sharp</text>
     </text>
     <text name="sys_line2" extra="true">
       <text>X68000</text>
-      <fontSize>0.18</fontSize>
-      <origin>0 0</origin>
-      <pos>0.05 0.16</pos>
-      <size>0 0</size>
     </text>
     <text name="shortdescription" extra="true">
       <text>1987  &#xB7;  16/32-BIT COMPUTER</text>
