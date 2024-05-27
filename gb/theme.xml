@@ -24,29 +24,4 @@
       <text>Successor to the Game &amp; Watch series. Competed with Game Gear and Lynx. CPU Sharp LR35902 core @4.19 MHz LCD 160x144 px. Release date JP: 21 Apr '89 NA: 31 Jul '89 EU: 28 Sep '90 RUS: '95 FRY: '96.</text>
     </text>
   </view>
-  <view name="detailed, video">
-    <image name="systemboxart" extra="true">
-      <origin>0 0</origin>
-      <pos>0.005 0.005</pos>
-      <maxSize>0.97 0.97</maxSize>
-      <path>./_inc/system.png</path>
-      <zIndex>43</zIndex>
-    </image>
-  </view>
-  <view name="basic">
-    <image name="systemboxart" extra="true">
-      <origin>0 0</origin>
-      <pos>0.005 0.005</pos>
-      <maxSize>0.97 0.97</maxSize>
-      <path>./_inc/system.png</path>
-      <zIndex>43</zIndex>
-    </image>
-    <image name="systemboxart2" extra="true">
-      <origin>0 0</origin>
-      <pos>0.796 0.005</pos>
-      <maxSize>0.97 0.97</maxSize>
-      <path>./_inc/system.png</path>
-      <zIndex>43</zIndex>
-    </image>
-  </view>
 </theme>

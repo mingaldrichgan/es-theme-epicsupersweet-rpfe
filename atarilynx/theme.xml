@@ -24,29 +24,4 @@
       <text>The world's first handheld electronic game with a color LCD. CPU WDC 65SC02, Display 160&#xD7;102 std res. ROM cartridge. Release date 01 Sep '89.</text>
     </text>
   </view>
-  <view name="detailed, video">
-    <image name="systemboxart" extra="true">
-      <origin>0 0</origin>
-      <pos>0.005 0.005</pos>
-      <maxSize>0.97 0.97</maxSize>
-      <path>./_inc/system.png</path>
-      <zIndex>43</zIndex>
-    </image>
-  </view>
-  <view name="basic">
-    <image name="systemboxart" extra="true">
-      <origin>0 0</origin>
-      <pos>0.005 0.005</pos>
-      <maxSize>0.97 0.97</maxSize>
-      <path>./_inc/system.png</path>
-      <zIndex>43</zIndex>
-    </image>
-    <image name="systemboxart2" extra="true">
-      <origin>0 0</origin>
-      <pos>0.796 0.005</pos>
-      <maxSize>0.97 0.97</maxSize>
-      <path>./_inc/system.png</path>
-      <zIndex>43</zIndex>
-    </image>
-  </view>
 </theme>

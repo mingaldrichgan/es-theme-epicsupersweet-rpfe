@@ -24,29 +24,4 @@
       <text>SG-1000 compatible. CPU Zilog Z80A @4MHz, 8kB RAM, 16kB VRAM, 256&#xD7;192, 32 clrs, Graph Yamaha YM2602B VDP Sound Yamaha VDP PSG(SN76489), Yamaha YM2413. Released NA: Sep,'86, JP: Oct,'87, EU:'87.</text>
     </text>
   </view>
-  <view name="detailed, video">
-    <image name="systemboxart" extra="true">
-      <origin>0 0</origin>
-      <pos>0.005 0.005</pos>
-      <maxSize>0.97 0.97</maxSize>
-      <path>./_inc/system.png</path>
-      <zIndex>43</zIndex>
-    </image>
-  </view>
-  <view name="basic">
-    <image name="systemboxart" extra="true">
-      <origin>0 0</origin>
-      <pos>0.005 0.005</pos>
-      <maxSize>0.97 0.97</maxSize>
-      <path>./_inc/system.png</path>
-      <zIndex>43</zIndex>
-    </image>
-    <image name="systemboxart2" extra="true">
-      <origin>0 0</origin>
-      <pos>0.796 0.005</pos>
-      <maxSize>0.97 0.97</maxSize>
-      <path>./_inc/system.png</path>
-      <zIndex>43</zIndex>
-    </image>
-  </view>
 </theme>

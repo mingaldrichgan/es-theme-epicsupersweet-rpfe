@@ -24,29 +24,4 @@
       <text>Sega Personal Computer SC-3000 released on the same date with the SG-1000. CPU Zilog Z80 @3.58MHz, 1KB RAM. Release date JP: 15 Jul '83.</text>
     </text>
   </view>
-  <view name="detailed, video">
-    <image name="systemboxart" extra="true">
-      <origin>0 0</origin>
-      <pos>0.005 0.005</pos>
-      <maxSize>0.97 0.97</maxSize>
-      <path>./_inc/system.png</path>
-      <zIndex>43</zIndex>
-    </image>
-  </view>
-  <view name="basic">
-    <image name="systemboxart" extra="true">
-      <origin>0 0</origin>
-      <pos>0.005 0.005</pos>
-      <maxSize>0.97 0.97</maxSize>
-      <path>./_inc/system.png</path>
-      <zIndex>43</zIndex>
-    </image>
-    <image name="systemboxart2" extra="true">
-      <origin>0 0</origin>
-      <pos>0.796 0.005</pos>
-      <maxSize>0.97 0.97</maxSize>
-      <path>./_inc/system.png</path>
-      <zIndex>43</zIndex>
-    </image>
-  </view>
 </theme>

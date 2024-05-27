@@ -24,29 +24,4 @@
       <text>Development of the console began in 1993 under the codename "Project Reality". CPU 64-bit NEC VR4300 @93.75MHz, 4MB&gt;8MB RDRAM, Graph SGI RCP @62.5MHz, Sound 16-bit, 48/44.1kHz St. Release date JP: 23 Jun '96 NA: 29 Sep '96 (Ofcl) EU/AU: 01 Mar '97.</text>
     </text>
   </view>
-  <view name="detailed, video">
-    <image name="systemboxart" extra="true">
-      <origin>0 0</origin>
-      <pos>0.005 0.005</pos>
-      <maxSize>0.97 0.97</maxSize>
-      <path>./_inc/system.png</path>
-      <zIndex>43</zIndex>
-    </image>
-  </view>
-  <view name="basic">
-    <image name="systemboxart" extra="true">
-      <origin>0 0</origin>
-      <pos>0.005 0.005</pos>
-      <maxSize>0.97 0.97</maxSize>
-      <path>./_inc/system.png</path>
-      <zIndex>43</zIndex>
-    </image>
-    <image name="systemboxart2" extra="true">
-      <origin>0 0</origin>
-      <pos>0.796 0.005</pos>
-      <maxSize>0.97 0.97</maxSize>
-      <path>./_inc/system.png</path>
-      <zIndex>43</zIndex>
-    </image>
-  </view>
 </theme>

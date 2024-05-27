@@ -24,29 +24,4 @@
       <text>The best-selling video game console of all time (sold 155+ mil units). CPU "Emotion Engine" @300MHz, 32MB RDRAM/ 4MB eDRAM (vid), 40GB HD, 150MHz "Graphics Synthesizer", DD-DTS 5.1 Release date JP: 04 Mar '00 NA: 26 Oct '00 EU: 24 Nov '00 AU: 30 Nov '00.</text>
     </text>
   </view>
-  <view name="detailed, video">
-    <image name="systemboxart" extra="true">
-      <origin>0 0</origin>
-      <pos>0.005 0.005</pos>
-      <maxSize>0.97 0.97</maxSize>
-      <path>./_inc/system.png</path>
-      <zIndex>43</zIndex>
-    </image>
-  </view>
-  <view name="basic">
-    <image name="systemboxart" extra="true">
-      <origin>0 0</origin>
-      <pos>0.005 0.005</pos>
-      <maxSize>0.97 0.97</maxSize>
-      <path>./_inc/system.png</path>
-      <zIndex>43</zIndex>
-    </image>
-    <image name="systemboxart2" extra="true">
-      <origin>0 0</origin>
-      <pos>0.796 0.005</pos>
-      <maxSize>0.97 0.97</maxSize>
-      <path>./_inc/system.png</path>
-      <zIndex>43</zIndex>
-    </image>
-  </view>
 </theme>

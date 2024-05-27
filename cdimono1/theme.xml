@@ -24,29 +24,4 @@
       <text>Philips CD-i (Compact Disc Interactive) a multimedia CD player developed/marketed by Royal Philips Electronics N.V. CPU Philips SCC68070 @15.5MHz RAM 1MB, Display 384&#xD7;280-768&#xD7;560, GPU Philips SCC66470, Sound MCD 221, ADPCM 8ch. Release date NA: 03 Dec '91 EU: 10 Jul '92.</text>
     </text>
   </view>
-  <view name="detailed, video">
-    <image name="systemboxart" extra="true">
-      <origin>0 0</origin>
-      <pos>0.005 0.005</pos>
-      <maxSize>0.97 0.97</maxSize>
-      <path>./_inc/system.png</path>
-      <zIndex>43</zIndex>
-    </image>
-  </view>
-  <view name="basic">
-    <image name="systemboxart" extra="true">
-      <origin>0 0</origin>
-      <pos>0.005 0.005</pos>
-      <maxSize>0.97 0.97</maxSize>
-      <path>./_inc/system.png</path>
-      <zIndex>43</zIndex>
-    </image>
-    <image name="systemboxart2" extra="true">
-      <origin>0 0</origin>
-      <pos>0.796 0.005</pos>
-      <maxSize>0.97 0.97</maxSize>
-      <path>./_inc/system.png</path>
-      <zIndex>43</zIndex>
-    </image>
-  </view>
 </theme>

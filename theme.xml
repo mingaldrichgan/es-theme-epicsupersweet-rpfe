@@ -83,7 +83,7 @@
       </image>
     </view>
   </feature>
-  <view name="detailed,video">
+  <view name="system, basic, detailed, video">
     <helpsystem name="help">
       <fontPath>./_inc/fonts/Acre.otf</fontPath>
       <fontSize>0.015</fontSize>
@@ -92,25 +92,7 @@
       <iconColor>ff332d</iconColor>
     </helpsystem>
   </view>
-  <view name="basic">
-    <helpsystem name="help">
-      <fontPath>./_inc/fonts/Acre.otf</fontPath>
-      <fontSize>0.015</fontSize>
-      <pos>0.015 0.98</pos>
-      <textColor>ff332d</textColor>
-      <iconColor>ff332d</iconColor>
-    </helpsystem>
-  </view>
-  <view name="system">
-    <helpsystem name="help">
-      <fontPath>./_inc/fonts/Acre.otf</fontPath>
-      <fontSize>0.015</fontSize>
-      <pos>0.015 0.98</pos>
-      <textColor>ff332d</textColor>
-      <iconColor>ff332d</iconColor>
-    </helpsystem>
-  </view>
-  <view name="detailed,video">
+  <view name="detailed, video">
     <textlist name="gamelist">
       <selectorColor>1c1c1c00</selectorColor>
       <pos>0.235 0.024</pos>
@@ -121,10 +103,16 @@
       <fontPath>./_inc/fonts/Acre.otf</fontPath>
       <fontSize>0.028</fontSize>
       <forceUppercase>1</forceUppercase>
-      <scrollSound/>
       <alignment>left</alignment>
       <zIndex>42</zIndex>
     </textlist>
+    <image name="systemboxart" extra="true">
+      <origin>0 0</origin>
+      <pos>0.005 0.005</pos>
+      <maxSize>0.97 0.97</maxSize>
+      <path>./${system.theme}/_inc/system.png</path>
+      <zIndex>43</zIndex>
+    </image>
   </view>
   <view name="basic">
     <textlist name="gamelist">
@@ -137,10 +125,23 @@
       <fontPath>./_inc/fonts/Acre.otf</fontPath>
       <fontSize>0.033</fontSize>
       <forceUppercase>1</forceUppercase>
-      <scrollSound/>
       <alignment>center</alignment>
       <zIndex>42</zIndex>
     </textlist>
+    <image name="systemboxart" extra="true">
+      <origin>0 0</origin>
+      <pos>0.005 0.005</pos>
+      <maxSize>0.97 0.97</maxSize>
+      <path>./${system.theme}/_inc/system.png</path>
+      <zIndex>43</zIndex>
+    </image>
+    <image name="systemboxart2" extra="true">
+      <origin>0 0</origin>
+      <pos>0.796 0.005</pos>
+      <maxSize>0.97 0.97</maxSize>
+      <path>./${system.theme}/_inc/system.png</path>
+      <zIndex>43</zIndex>
+    </image>
   </view>
   <view name="basic">
     <image name="background" extra="true">
@@ -150,17 +151,20 @@
       <path>./_inc/images/systembasic.png</path>
     </image>
   </view>
-  <view name="detailed,video">
+  <view name="detailed, video">
     <image name="background" extra="true">
       <origin>0 0</origin>
       <pos>0 0</pos>
       <size>1 1</size>
       <path>./_inc/images/systemvideo.png</path>
     </image>
-    <text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_lastplayed, md_lbl_playcount, md_rating, md_developer, md_publisher, md_genre, md_playcount, md_lastplayed">
+    <text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_lastplayed, md_lbl_playcount, md_rating, md_developer, md_publisher, md_genre, md_playcount">
       <pos>1 1</pos>
     </text>
-    <text name="md_lbl_rating,md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_lastplayed, md_lbl_playcount,md_lbl_players,md_developer, md_publisher, md_genre, md_playcount, md_lastplayed,md_description,md_players,md_releasedate">
+    <datetime name="md_lastplayed">
+      <pos>1 1</pos>
+    </datetime>
+    <text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_lastplayed, md_lbl_playcount, md_lbl_players, md_developer, md_publisher, md_genre, md_playcount, md_description, md_players">
       <color>ffffff</color>
       <fontPath>./_inc/fonts/Acre.otf</fontPath>
       <fontSize>0.025</fontSize>
@@ -195,6 +199,9 @@
       <zIndex>42</zIndex>
     </text>
     <datetime name="md_releasedate">
+      <color>ffffff</color>
+      <fontPath>./_inc/fonts/Acre.otf</fontPath>
+      <fontSize>0.025</fontSize>
       <pos>0.85 0.65</pos>
       <size>0.2 0.035</size>
       <zIndex>42</zIndex>

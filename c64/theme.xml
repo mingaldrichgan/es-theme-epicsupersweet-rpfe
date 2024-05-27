@@ -24,29 +24,4 @@
       <text>The highest-selling single computer model (GWRs). CPU MOS Technology 6510/8500 @1.023MHz (NTSC) @0.985MHz (PAL), 64KB RAM + 20KB ROM, Graph VIC-II (320&#xD7;200, 16 colors), Sound SID 6581/8580. Release date Aug '82. Note: Right Ctrl key changes joystick port, Select button enables On-Screen Keyboard.</text>
     </text>
   </view>
-  <view name="detailed, video">
-    <image name="systemboxart" extra="true">
-      <origin>0 0</origin>
-      <pos>0.005 0.005</pos>
-      <maxSize>0.97 0.97</maxSize>
-      <path>./_inc/system.png</path>
-      <zIndex>43</zIndex>
-    </image>
-  </view>
-  <view name="basic">
-    <image name="systemboxart" extra="true">
-      <origin>0 0</origin>
-      <pos>0.005 0.005</pos>
-      <maxSize>0.97 0.97</maxSize>
-      <path>./_inc/system.png</path>
-      <zIndex>43</zIndex>
-    </image>
-    <image name="systemboxart2" extra="true">
-      <origin>0 0</origin>
-      <pos>0.796 0.005</pos>
-      <maxSize>0.97 0.97</maxSize>
-      <path>./_inc/system.png</path>
-      <zIndex>43</zIndex>
-    </image>
-  </view>
 </theme>
