@@ -13,7 +13,7 @@
       <text>1985  &#xB7;  16-BIT COMPUTER</text>
     </text>
     <text name="longdescription" extra="true">
-      <text>The Atari ST is the successor to the Atari 8-BIT family. CPU Motorola 680x0 @8MHz+ Memory 512KiBs (512&#xD7;210 bytes) to 4MiB (4&#xD7;220 bytes). Release date Jun '85. Note: Select button toggles Mouse/Joystick.</text>
+      <text>The Atari ST is the successor to the Atari 8-bit family. CPU Motorola 680x0 @8MHz+ Memory 512KiBs (512&#xD7;210 bytes) to 4MiB (4&#xD7;220 bytes). Released Jun &#x2019;85. Note: Select button toggles Mouse/Joystick.</text>
     </text>
   </view>
 </theme>

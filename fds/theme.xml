@@ -13,7 +13,7 @@
       <text>1986  &#xB7;  8-BIT CONSOLE ADDON</text>
     </text>
     <text name="longdescription" extra="true">
-      <text>The Famicom Disk System is a peripheral for Nintendo's Family Computer home video game console. CPU Ricoh 2A03, Media Floppy disks, Release date JP: 21 Feb '86. Note: Press RB to eject Side A, Press LB to select Side B, Press RB to insert Side B.</text>
+      <text>The Famicom Disk System is a peripheral for Nintendo&#x2019;s Family Computer home video game console. CPU Ricoh 2A03, Media Floppy disks, Released JP: 21 Feb &#x2019;86. Note: Press RB to eject Side A, Press LB to select Side B, Press RB to insert Side B.</text>
     </text>
   </view>
 </theme>

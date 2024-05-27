@@ -13,7 +13,7 @@
       <text>1986  &#xB7;  8-BIT CONSOLE</text>
     </text>
     <text name="longdescription" extra="true">
-      <text>Atari 7800 ProSystem. CPU Atari SALLY 6502 ("6502C") @1.19-1.79MHz, 4KB RAM, 4KB BIOS ROM, 48KB Cartridge ROM Space, MARIA custom GPU 7.16MHz, Release date NA: May '86 PAL: '87.</text>
+      <text>Atari 7800 ProSystem. CPU Atari SALLY 6502 ("6502C") @1.19&#x2013;1.79MHz, 4KB RAM, 4KB BIOS ROM, 48KB Cartridge ROM Space, MARIA custom GPU 7.16MHz, Released NA: May &#x2019;86 PAL: &#x2019;87.</text>
     </text>
   </view>
 </theme>

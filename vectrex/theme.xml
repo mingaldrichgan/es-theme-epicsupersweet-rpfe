@@ -13,7 +13,7 @@
       <text>1982  &#xB7;  8-BIT CONSOLE</text>
     </text>
     <text name="longdescription" extra="true">
-      <text>Developed by Smith Engineering. CPU Motorola MC68A09 @1.5MHz, Memory 1KB, Display 9" CRT. Release date NA: Nov, '82 EU: May '83 JP: Jun '83.</text>
+      <text>Developed by Smith Engineering. CPU Motorola MC68A09 @1.5MHz, Memory 1KB, Display 9" CRT. Released NA: Nov, &#x2019;82 EU: May &#x2019;83 JP: Jun &#x2019;83.</text>
     </text>
   </view>
 </theme>

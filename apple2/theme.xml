@@ -13,7 +13,7 @@
       <text>1977  &#xB7;  8-BIT COMPUTER</text>
     </text>
     <text name="longdescription" extra="true">
-      <text>Designed primarily by Steve Wozniak. CPU MOS Technology 6502, Memory 4KB-64KB, Storage Audio cassette Disk II (5.25-inch, 140KB, Apple). Release date Jun '77. Note: Press F1 key for help menu, Press F10 Key to quit emulator.</text>
+      <text>Designed primarily by Steve Wozniak. CPU MOS Technology 6502, Memory 4KB-64KB, Storage Audio cassette Disk II (5.25-inch, 140KB, Apple). Released Jun &#x2019;77. Note: Press F1 key for help menu, Press F10 key to quit emulator.</text>
     </text>
   </view>
 </theme>

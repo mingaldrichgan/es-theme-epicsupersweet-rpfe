@@ -13,7 +13,7 @@
       <text>1998  &#xB7;  32-BIT ARCADE BOARD</text>
     </text>
     <text name="longdescription" extra="true">
-      <text>The NAOMI (New Arcade Operation Machine Idea) was designed as a successor to Sega Model 3 hardware. CPU Hitachi SH-4 32-BIT RISC @200MHz, 32MB RAM, 16MB Vd.RAM, 8MB Snd.RAM, GP 100MHz PowerVR2, Sound 45MHz Yamaha AICA 32-BIT ARM7 RISC CPU core, 64 ch. Release date '98.</text>
+      <text>The NAOMI (New Arcade Operation Machine Idea) was designed as a successor to Sega Model 3 hardware. CPU Hitachi SH-4 32-BIT RISC @200MHz, 32MB RAM, 16MB Vd.RAM, 8MB Snd.RAM, GP 100MHz PowerVR2, Sound 45MHz Yamaha AICA 32-BIT ARM7 RISC CPU core, 64 ch. Released &#x2019;98.</text>
     </text>
   </view>
 </theme>

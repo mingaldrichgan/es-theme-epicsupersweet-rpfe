@@ -13,7 +13,7 @@
       <text>1982  &#xB7;  8-BIT COMPUTER</text>
     </text>
     <text name="longdescription" extra="true">
-      <text>The Spectrum was among the first mainstream-audience home computers in the UK. CPU Z80 @3.5 MHz Memory 16-128KB, OS Sinclair BASIC. Release date UK: 23 Apr '82. Note: Scroll Lock key enables Game Focus, Select button enables On-Screen Keyboard.</text>
+      <text>The Spectrum was among the first mainstream-audience home computers in the UK. CPU Z80 @3.5 MHz Memory 16&#x2013;128KB, OS Sinclair BASIC. Released UK: 23 Apr &#x2019;82. Note: Scroll Lock key enables Game Focus, Select button enables On-Screen Keyboard.</text>
     </text>
   </view>
 </theme>

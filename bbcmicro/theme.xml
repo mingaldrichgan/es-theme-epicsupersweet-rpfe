@@ -13,7 +13,7 @@
       <text>1981  &#xB7;  8-BIT COMPUTER</text>
     </text>
     <text name="longdescription" extra="true">
-      <text>Built by Acorn Computers in the 1980s for the BBC Computer Literacy Project. CPU MOS Technology 6502A @ 2MHz, 32KB RAM + 16KB OS ROM + 16KB BASIC ROM, Graphics Motorola 6845 and Mullard SAA5050 (up to 640 x 256 (PAL) or 640 x 200 (NTSC)), Sound Texas Instruments SN76489. Release date Dec '81.</text>
+      <text>Built by Acorn Computers in the 1980s for the BBC Computer Literacy Project. CPU MOS Technology 6502A @ 2MHz, 32KB RAM + 16KB OS ROM + 16KB BASIC ROM, Graphics Motorola 6845 and Mullard SAA5050 (up to 640&#xD7;256 (PAL) or 640&#xD7;200 (NTSC)), Sound Texas Instruments SN76489. Released Dec &#x2019;81.</text>
     </text>
   </view>
 </theme>

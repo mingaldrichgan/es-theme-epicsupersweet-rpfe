@@ -13,7 +13,7 @@
       <text>1990  &#xB7;  8-BIT HANDHELD CONSOLE</text>
     </text>
     <text name="longdescription" extra="true">
-      <text>It is able to play it's own titles as well as the Master Systems. CPU Zilog Z80 @3.5 MHz, 8kB RAM, 16kB VRAM, 3.2" backlit screen, 160&#xD7;144, 4096 colors (32 on-screen), Sound TI SN76489, ROM cartridge.</text>
+      <text>It is able to play its own titles as well as the Master Systems. CPU Zilog Z80 @3.5 MHz, 8kB RAM, 16kB VRAM, 3.2&#x201D; backlit screen, 160&#xD7;144, 4096 colors (32 on-screen), Sound TI SN76489, ROM cartridge.</text>
     </text>
   </view>
 </theme>

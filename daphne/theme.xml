@@ -8,13 +8,12 @@
     </text>
     <text name="sys_line2" extra="true">
       <text>Daphne</text>
-      <pos>0.05 0.130</pos>
     </text>
     <text name="shortdescription" extra="true">
       <text>1980s  &#xB7;  ARCADE LASERDISC EMULATOR</text>
     </text>
     <text name="longdescription" extra="true">
-      <text>Emulator for LD-V1000 Converged device and home video game console capable of playing Laserdiscs, Compact Discs, console games, and LD-G karaoke discs. Note: Start button to insert credits, Select button to start Game, Home or LT to quit emulator.
+      <text>Emulator for LD-V1000 Converged device and home video game console capable of playing Laserdiscs, Compact Discs, console games, and LD-G karaoke discs. Note: Select button to insert credits, Start button to start game, Home to quit emulator.
 </text>
     </text>
   </view>

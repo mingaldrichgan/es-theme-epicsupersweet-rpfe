@@ -13,7 +13,7 @@
       <text>1983  &#xB7;  8-BIT COMPUTER</text>
     </text>
     <text name="longdescription" extra="true">
-      <text>MSX is a standardized home computer architecture, conceived as an attempt to create unified standards among various hardware makers by Microsoft and ASCII. CPU Zilog Z80, 8-512 KB, Release date '83.</text>
+      <text>MSX is a standardized home computer architecture, conceived as an attempt to create unified standards among various hardware makers by Microsoft and ASCII. CPU Zilog Z80, 8&#x2013;512 KB, Released &#x2019;83.</text>
     </text>
   </view>
 </theme>

@@ -7,13 +7,13 @@
       <text>Microsoft</text>
     </text>
     <text name="sys_line2" extra="true">
-      <text>MS-DOS</text>
+      <text>DOS</text>
     </text>
     <text name="shortdescription" extra="true">
-      <text>1981  &#xB7;  SOFTWARE OS</text>
+      <text>1981  &#xB7;  DESKTOP OPERATING SYSTEM</text>
     </text>
     <text name="longdescription" extra="true">
-      <text>MS-DOS is an operating system for x86-based personal computers mostly developed by Microsoft. Initial release 12 Aug '81.</text>
+      <text>MS-DOS is an operating system for x86-based personal computers mostly developed by Microsoft. Initial release 12 Aug &#x2019;81.</text>
     </text>
   </view>
 </theme>
