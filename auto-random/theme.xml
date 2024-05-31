@@ -4,14 +4,14 @@
   <include>./../theme.xml</include>
   <view name="system">
     <text name="sys_line2" extra="true">
-      <text>Recent</text>
+      <text>Random</text>
       <pos>0.05 0.130</pos>
     </text>
     <text name="shortdescription" extra="true">
       <text>AUTOMATIC COLLECTION</text>
     </text>
     <text name="longdescription" extra="true">
-      <text>Access and quickly play recently played games across the entire library.</text>
+      <text>Access and quickly play random games across the entire library.</text>
     </text>
   </view>
 </theme>
