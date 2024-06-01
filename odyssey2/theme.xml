@@ -7,13 +7,24 @@
       <text>Magnavox</text>
     </text>
     <text name="sys_line2" extra="true">
-      <text>Odyssey 2</text>
+      <text>Odyssey</text>
+    </text>
+    <text name="sys_line2_suffix" extra="true">
+      <text>2</text>
+      <fontPath>./../_inc/fonts/BebasNeue.otf</fontPath>
+      <alignment>left</alignment>
+      <color>ffffff</color>
+      <fontSize>0.12</fontSize>
+      <origin>0 0</origin>
+      <pos>0.33 0.16</pos>
+      <size>0 0</size>
+      <zIndex>44</zIndex>
     </text>
     <text name="shortdescription" extra="true">
       <text>1978  &#xB7;  8-BIT CONSOLE</text>
     </text>
     <text name="longdescription" extra="true">
-      <text>The Magnavox Odyssey 2, also known as Philips Odyssey 2. Sold in Europe as the Philips Videopac G7000, as Philips Odyssey (Brazil) and as Odyssey2 (JP). CPU	Intel 8048, 64 bytes RAM, 1024 bytes ROM. Released EU: Dec &#x2019;78 NA: Feb &#x2019;79 JP: Sep &#x2019;82 BR: May &#x2019;83.</text>
+      <text>The Magnavox Odyssey&#xB2;, also known as Philips Odyssey&#xB2;. Sold in Europe as the Philips Videopac G7000, as Philips Odyssey (Brazil) and as Odyssey2 (JP). CPU Intel 8048, 64 bytes RAM, 1024 bytes ROM. Released EU: Dec &#x2019;78 NA: Feb &#x2019;79 JP: Sep &#x2019;82 BR: May &#x2019;83.</text>
     </text>
   </view>
 </theme>

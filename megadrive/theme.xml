@@ -13,7 +13,7 @@
       <text>1988  &#xB7;  16-BIT CONSOLE</text>
     </text>
     <text name="longdescription" extra="true">
-      <text>Successor to the Master System. CPU Motorola 68000 @7.6MHz Zilog Z80 @3.58MHz, 320×224 (NTSC) 320×240 (PAL), 512 colors (61 on-screen). Sound Yamaha YM2612 TI SN76489. Released JP: 29 Oct &#x2019;88, NA: 14 Aug &#x2019;89 KOR: Aug &#x2019;90 PAL: Sep &#x2019;90 BRA: 01 Sep &#x2019;90.</text>
+      <text>Successor to the Master System. CPU Motorola 68000 @7.6MHz Zilog Z80 @3.58MHz, 320&#xD7;224 (NTSC) 320&#xD7;240 (PAL), 512 colors (61 on-screen). Sound Yamaha YM2612 TI SN76489. Released JP: 29 Oct &#x2019;88, NA: 14 Aug &#x2019;89 KOR: Aug &#x2019;90 PAL: Sep &#x2019;90 BRA: 01 Sep &#x2019;90.</text>
     </text>
   </view>
 </theme>
